@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/24 09:36:07.000.326,=C:\Desenvolvimento\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/06/13 20:07:04.000.996,=C:\Desenvolvimento\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/06/30 10:40:03.000.723,=C:\Desenvolvimento\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/06/30 10:40:21.000.191,C:\Desenvolvimento\Delphi\Unit1.dfm=C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\UPrincipal.dfm</Transaction>
+    <Transaction>2022/06/30 10:40:21.000.191,C:\Desenvolvimento\Delphi\Unit1.pas=C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\UPrincipal.pas</Transaction>
+    <Transaction>2022/06/30 10:40:26.000.522,C:\Desenvolvimento\Delphi\Project1.dproj=C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\ServidorRestConnect.dproj</Transaction>
+    <Transaction>2022/06/30 10:48:18.000.030,=C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\Unit1.pas</Transaction>
+    <Transaction>2022/06/30 10:49:04.000.923,C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\UDados.pas=C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\Unit1.pas</Transaction>
+    <Transaction>2022/06/30 10:49:04.000.923,C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\UDados.dfm=C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\Unit1.dfm</Transaction>
+    <Transaction>2022/06/30 13:42:59.000.540,=C:\Desenvolvimento\Delphi\OutBox\Connect\Servidor Rest\ofxreader.pas</Transaction>
+  </Transactions>
+</BorlandProject>
